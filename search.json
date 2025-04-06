@@ -1,122 +1,31 @@
 [
   {
-    "objectID": "Templates/DS350_Template.html",
-    "href": "Templates/DS350_Template.html",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Ammon Wilson’s Resume",
+    "section": "",
+    "text": "Current CS Major Student at BYU-I\n\nammonwilson@byui.edu | My Github Page\n\n\n\nComputer Science Student (BS)\n\n\n\n\n\nJanuary 2024 – August 2024 - Delivered exceptional guest service in a high-paced food service environment\n- Maintained cleanliness and organization of food prep and dining areas in accordance with Disney standards\n- Operated point-of-sale systems efficiently while handling guest transactions with accuracy\n- Prepared and served food items while ensuring quality, safety, and presentation standards were met\n- Restocked inventory and supplies during shifts to support smooth operations\n- Collaborated with team members to meet location goals and provide magical experiences for guests\n- Adapted to various roles and tasks based on daily operational needs\n- Gained experience in time management, multitasking, and communication within a world-renowned hospitality environment\n\n\n\n\nSeptember 2021 – Present - Completed all work-related tasks in a timely manner\n- Sanitized surfaces and touch points throughout the building(s)\n- Restocked supplies in bathrooms and hand dispensers\n- Collaborated with fellow team members to ensure quality, efficiency, and completion of all tasks\n- Delivered equipment and set up props to certain locations in preparation for special events\n- Performed shift supervisor duties to ensure tasks met and exceeded the task expectations set by the University Facilities & Operations Service Department\n- Assisted new workers with the workload as well as answering any questions they might have\n- Learned the importance of being a good role model as a lead student among co-workers\n\n\n\n\nMarch 2022 – July 2022 - Learned the order of ingredients for each sandwich\n- Efficient and effective with drive-thru orders to help the workload of co-workers\n- Assisted in restocking products such as frozen and other miscellaneous ingredients and products\n- Communicated with co-workers about the process of making sandwiches for efficiency\n\n\n\n\nJuly 2021 – September 2021 - Ensured products were properly displayed and shelves were stocked accordingly to company schematics and guidelines\n- Completed daily tasks efficiently\n- Maintained positive relationships with co-workers and store management\n- Provided excellent customer service for Walgreens guests\n- Assisted with exterior and interior maintenance by ensuring clean, neat, orderly store condition and appearance\n- Resolved customer issues professionally and respectfully\n- Cleaned and sanitized the store’s bathrooms\n\n\n\n\nApril 2019 – December 2020 - Operated the dish machine\n- Supervised proper rinse and wash temperatures\n- Changed the water, stored and used dish chemicals properly\n- Organized and set up the dish racks\n- Removed the trash from work area\n- Exhibited teamwork\n- Received recognition for going above and beyond my duties\n- Awarded as the Employee of the Month"
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Ammon Wilson’s Resume",
+    "section": "",
+    "text": "Computer Science Student (BS)"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Ammon Wilson’s Resume",
+    "section": "",
+    "text": "January 2024 – August 2024 - Delivered exceptional guest service in a high-paced food service environment\n- Maintained cleanliness and organization of food prep and dining areas in accordance with Disney standards\n- Operated point-of-sale systems efficiently while handling guest transactions with accuracy\n- Prepared and served food items while ensuring quality, safety, and presentation standards were met\n- Restocked inventory and supplies during shifts to support smooth operations\n- Collaborated with team members to meet location goals and provide magical experiences for guests\n- Adapted to various roles and tasks based on daily operational needs\n- Gained experience in time management, multitasking, and communication within a world-renowned hospitality environment\n\n\n\n\nSeptember 2021 – Present - Completed all work-related tasks in a timely manner\n- Sanitized surfaces and touch points throughout the building(s)\n- Restocked supplies in bathrooms and hand dispensers\n- Collaborated with fellow team members to ensure quality, efficiency, and completion of all tasks\n- Delivered equipment and set up props to certain locations in preparation for special events\n- Performed shift supervisor duties to ensure tasks met and exceeded the task expectations set by the University Facilities & Operations Service Department\n- Assisted new workers with the workload as well as answering any questions they might have\n- Learned the importance of being a good role model as a lead student among co-workers\n\n\n\n\nMarch 2022 – July 2022 - Learned the order of ingredients for each sandwich\n- Efficient and effective with drive-thru orders to help the workload of co-workers\n- Assisted in restocking products such as frozen and other miscellaneous ingredients and products\n- Communicated with co-workers about the process of making sandwiches for efficiency\n\n\n\n\nJuly 2021 – September 2021 - Ensured products were properly displayed and shelves were stocked accordingly to company schematics and guidelines\n- Completed daily tasks efficiently\n- Maintained positive relationships with co-workers and store management\n- Provided excellent customer service for Walgreens guests\n- Assisted with exterior and interior maintenance by ensuring clean, neat, orderly store condition and appearance\n- Resolved customer issues professionally and respectfully\n- Cleaned and sanitized the store’s bathrooms\n\n\n\n\nApril 2019 – December 2020 - Operated the dish machine\n- Supervised proper rinse and wash temperatures\n- Changed the water, stored and used dish chemicals properly\n- Organized and set up the dish racks\n- Removed the trash from work area\n- Exhibited teamwork\n- Received recognition for going above and beyond my duties\n- Awarded as the Employee of the Month"
+  },
+  {
+    "objectID": "Templates/DS250_Template.html",
+    "href": "Templates/DS250_Template.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "TODO: Update with template from Paul\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "DS250 Projects",
-    "section": "",
-    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
-    "crumbs": [
-      "DS250 Projects"
-    ]
-  },
-  {
-    "objectID": "projects.html#repo-for-all-my-projects",
-    "href": "projects.html#repo-for-all-my-projects",
-    "title": "DS250 Projects",
-    "section": "",
-    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
-    "crumbs": [
-      "DS250 Projects"
-    ]
-  },
-  {
-    "objectID": "Projects/project4.html",
-    "href": "Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS250 Projects",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Projects/project2.html",
-    "href": "Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS250 Projects",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
+    "text": "Uncomment the entire section to use this template\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "exploration.html",
@@ -133,18 +42,15 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
+    "objectID": "Projects/project4.html",
+    "href": "Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 4"
+    ]
   },
   {
     "objectID": "Projects/project1.html",
@@ -169,6 +75,76 @@
     ]
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
     "objectID": "Projects/project5.html",
     "href": "Projects/project5.html",
     "title": "Client Report - [Insert Project Title]",
@@ -180,52 +156,55 @@
     ]
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "Templates/DS250_Template.html",
-    "href": "Templates/DS250_Template.html",
+    "objectID": "Projects/project2.html",
+    "href": "Projects/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Uncomment the entire section to use this template\n\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Templates/DS350_Template.html",
+    "href": "Templates/DS350_Template.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "TODO: Update with template from Paul\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "DS250 Projects",
+    "section": "",
+    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
+    "crumbs": [
+      "DS250 Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#repo-for-all-my-projects",
+    "href": "projects.html#repo-for-all-my-projects",
+    "title": "DS250 Projects",
+    "section": "",
+    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
+    "crumbs": [
+      "DS250 Projects"
+    ]
   }
 ]

@@ -1,89 +1,82 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ammon Wilson's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ammon Wilson
+Current CS Major Student at BYU-I
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ammonwilson@byui.edu">ammonwilson@byui.edu</a>
+| <a href="https://github.com/TheStarCorner/TheStarCorner.github.io">My Github Page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Computer Science Student (BS)
 
-### Specialized in
+## Work Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### **Walt Disney World – Florida, EWDWCP Food Service QSR CM - Walt Disney World College Program Quick Service Cast Member**  
+**January 2024 – August 2024**
+- Delivered exceptional guest service in a high-paced food service environment  
+- Maintained cleanliness and organization of food prep and dining areas in accordance with Disney standards  
+- Operated point-of-sale systems efficiently while handling guest transactions with accuracy  
+- Prepared and served food items while ensuring quality, safety, and presentation standards were met  
+- Restocked inventory and supplies during shifts to support smooth operations  
+- Collaborated with team members to meet location goals and provide magical experiences for guests  
+- Adapted to various roles and tasks based on daily operational needs  
+- Gained experience in time management, multitasking, and communication within a world-renowned hospitality environment  
 
+--- 
 
-### Research interests
+### **Brigham Young University – Idaho, Early Morning Custodian Department (Lead Student Role Included)**  
+**September 2021 – Present**
+- Completed all work-related tasks in a timely manner  
+- Sanitized surfaces and touch points throughout the building(s)  
+- Restocked supplies in bathrooms and hand dispensers  
+- Collaborated with fellow team members to ensure quality, efficiency, and completion of all tasks  
+- Delivered equipment and set up props to certain locations in preparation for special events  
+- Performed shift supervisor duties to ensure tasks met and exceeded the task expectations set by the University Facilities & Operations Service Department  
+- Assisted new workers with the workload as well as answering any questions they might have  
+- Learned the importance of being a good role model as a lead student among co-workers  
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+---
 
+### **Jimmy John’s, 109 S 2nd St W, Rexburg, ID 83440 – Sandwich Maker**  
+**March 2022 – July 2022**
+- Learned the order of ingredients for each sandwich  
+- Efficient and effective with drive-thru orders to help the workload of co-workers  
+- Assisted in restocking products such as frozen and other miscellaneous ingredients and products  
+- Communicated with co-workers about the process of making sandwiches for efficiency  
 
-## Education
+---
 
-`1654-1660`
-__The King's School, Grantham.__
+### **Walgreens, 1801 Gulf to Bay Blvd, Clearwater, FL 33765 – Customer Service Associate**  
+**July 2021 – September 2021**
+- Ensured products were properly displayed and shelves were stocked accordingly to company schematics and guidelines  
+- Completed daily tasks efficiently  
+- Maintained positive relationships with co-workers and store management  
+- Provided excellent customer service for Walgreens guests  
+- Assisted with exterior and interior maintenance by ensuring clean, neat, orderly store condition and appearance  
+- Resolved customer issues professionally and respectfully  
+- Cleaned and sanitized the store’s bathrooms  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+---
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### **Texas Roadhouse, 8865 Southern Blvd Building E, West Palm Beach, FL 33411 – Dishwasher**  
+**April 2019 – December 2020**
+- Operated the dish machine  
+- Supervised proper rinse and wash temperatures  
+- Changed the water, stored and used dish chemicals properly  
+- Organized and set up the dish racks  
+- Removed the trash from work area  
+- Exhibited teamwork  
+- Received recognition for going above and beyond my duties  
+- Awarded as the Employee of the Month  
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025 -->
